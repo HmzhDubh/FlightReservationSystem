@@ -16,4 +16,4 @@ The Project Build using different Patterns
 - Airport Scalability
 
 ### Class Diagram
-<img src="ClassDiagram.jpg" alt="Class Diagram"> 
+<img src="ClassDiagram.jpeg" alt="Class Diagram"> 
