@@ -17,7 +17,8 @@ The Project Build using different Patterns
 
 ## Class Diagram
 <img src="ClassDiagram.jpeg" alt="Class Diagram"> 
-#### Team Developers 
+
+### Team Developers 
 - Hmzh Dubh
 - Hatem alharbi
 - Khalid alzahrani
